@@ -1,6 +1,6 @@
 [![MasterHead](./assets/GitHub-Banner.gif)](https://www.jesseabuaja.tech)
 
-<h1 align="center">Hi 👋, I'm Jesse Abuaja</h1>
+<h1 align="center">Hi 👋, I'm Jesse Abuaja A.K.A Jesjags</h1>
 <h3 align="center">A Passionate Full Stack Developer From Nigeria.</h3>
 <img align="right" alt="Coding" width="400" src="./assets/Code-typing.gif" >
 
