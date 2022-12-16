@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [SchoolZone](https://schoolzoneapp.netlify.app/)
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **NextJS, TypeScript and Redis**
 
-- 👨‍💻 See some of my projects are available at [https://www.jesseabuaja.tech](https://www.jesseabuaja.tech)
+- 👨‍💻 View some of my projects are available at [https://www.jesseabuaja.tech](https://www.jesseabuaja.tech)
 
 - 💬 Ask me about **MERN Stack, CSS**
 
