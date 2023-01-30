@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/jsjags01" target="blank"><img src="https://img.shields.io/twitter/follow/jsjags01?logo=twitter&style=for-the-badge" alt="jsjags01" /></a> </p>
 
-- 🔭 I’m currently working on [SchoolZone](https://schoolzoneapp.netlify.app/)
+- 🔭 I’m currently working on [SchoolZone](https://schoolzone.vercel.app/)
 
-- 🌱 I’m currently learning **NextJS, TypeScript and Redis**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 👨‍💻 View some of my projects are available at [https://www.jesseabuaja.tech](https://www.jesseabuaja.tech)
+- 👨‍💻 Visit my portfolio available at [https://www.jesseabuaja.tech](https://www.jesseabuaja.tech)
 
 - 💬 Ask me about **MERN Stack, CSS**
 
