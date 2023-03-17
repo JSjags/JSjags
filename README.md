@@ -18,19 +18,6 @@
 
 - 📫 How to reach me **jesseabuaja@hotmail.com**
 
-<<<<<<< HEAD
-=======
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Have you seen this sexy button?](https://dev.to/rahuldkjain/have-you-seen-this-sexy-button-2ijn)
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-<!-- BLOG-POST-LIST:END -->
-
->>>>>>> 6b40052488089399ef2385b6f0465c332cee5c1a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jsjags01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsjags01" height="30" width="40" /></a>
