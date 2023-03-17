@@ -33,13 +33,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsjags&show_icons=true&theme=transparent&locale=en" alt="jsjags" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-
 [![wakatime](https://wakatime.com/badge/user/c3d9e59b-6ad6-4d3c-a209-40941c0b17b8.svg)](https://wakatime.com/@c3d9e59b-6ad6-4d3c-a209-40941c0b17b8)
 
-[![JSjags's wakatime stats]()](https://github.com/anuraghazra/github-readme-stats)
+[![JSjags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsjags&theme=transparent" alt="jsjags" /></p>
 
