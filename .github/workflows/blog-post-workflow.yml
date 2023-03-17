@@ -11,5 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # https://dev.to/feed/rahuldkjain
-          feed_list: "https://medium.com/feed/@JSjags01"
+          feed_list: "https://dev.to/feed/rahuldkjain, https://medium.com/feed/@rahuldkjain"
