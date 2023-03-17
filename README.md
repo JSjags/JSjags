@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/jsjags01" target="blank"><img src="https://img.shields.io/twitter/follow/jsjags01?logo=twitter&style=for-the-badge" alt="jsjags01" /></a> </p>
 
+[![JSjags's wakatime](https://wakatime.com/badge/user/c3d9e59b-6ad6-4d3c-a209-40941c0b17b8.svg)](https://wakatime.com/@c3d9e59b-6ad6-4d3c-a209-40941c0b17b8)
+
 - 🔭 I’m currently working on [SchoolZone](https://schoolzone.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
@@ -33,10 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsjags&show_icons=true&theme=transparent&locale=en" alt="jsjags" /></p>
 
-[![wakatime](https://wakatime.com/badge/user/c3d9e59b-6ad6-4d3c-a209-40941c0b17b8.svg)](https://wakatime.com/@c3d9e59b-6ad6-4d3c-a209-40941c0b17b8)
-
-[![JSjags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsjags&theme=transparent" alt="jsjags" /></p>
 
 ### My Latest Blog Posts & Articles
@@ -45,3 +43,5 @@
 
 - [Deep Copying in JavaScript: A Comprehensive Guide](https://medium.com/@JSjags01/diving-into-the-depths-of-deep-copying-in-javascript-a-comprehensive-guide-897475b370af?source=rss-d1ea77d74925------2)
 <!-- BLOG-POST-LIST:END -->
+
+[![JSjags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags)](https://github.com/anuraghazra/github-readme-stats)
