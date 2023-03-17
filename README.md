@@ -29,11 +29,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsjags&show_icons=true&langs_count=8&theme=transparent&locale=en&hide_progress=true" alt="jsjags" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jsjags&show_icons=true&theme=transparent&locale=en" alt="jsjags" /></p>
+<!-- https://github-readme-stats.vercel.app/api/wakatime?username=willianrod -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsjags&show_icons=true&theme=transparent&locale=en" alt="jsjags" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/c3d9e59b-6ad6-4d3c-a209-40941c0b17b8.svg)](https://wakatime.com/@c3d9e59b-6ad6-4d3c-a209-40941c0b17b8)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags&show_icons=true&theme=transparent&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![JSjags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsjags&theme=transparent" alt="jsjags" /></p>
 
