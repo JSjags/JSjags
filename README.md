@@ -44,4 +44,4 @@
 - [Deep Copying in JavaScript: A Comprehensive Guide](https://medium.com/@JSjags01/diving-into-the-depths-of-deep-copying-in-javascript-a-comprehensive-guide-897475b370af?source=rss-d1ea77d74925------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![JSjags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![JSjags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjags)](https://github.com/anuraghazra/github-readme-stats) -->
