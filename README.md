@@ -58,14 +58,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsjags&show_icons=true&langs_count=8&theme=transparent&locale=en&hide_progress=true" alt="jsjags" /></p>
 
-</br>
-</br>
 <!-- https://github-readme-stats.vercel.app/api/wakatime?username=willianrod -->
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsjags&show_icons=true&theme=transparent&locale=en" alt="jsjags" /></p>
-
-<!-- </br>
-</br> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsjags&theme=transparent" alt="jsjags" /></p>
 
