@@ -10,11 +10,11 @@
 
 [![JSjags's wakatime](https://wakatime.com/badge/user/c3d9e59b-6ad6-4d3c-a209-40941c0b17b8.svg)](https://wakatime.com/@c3d9e59b-6ad6-4d3c-a209-40941c0b17b8)
 
-- 🔭 I’m currently working on [SchoolZone](https://schoolzone.vercel.app/)
+- 🔭 I’m currently working on projects I can't disclose at the moment🤐
 
 - 🌱 I’m currently learning **C# and . NET framework**
 
-- 👨‍💻 Visit my portfolio available at [https://www.jesseabuaja.tech](https://www.jesseabuaja.tech)
+- 👨‍💻 Visit my portfolio available at [https://www.jesseabuaja.me](https://www.jesseabuaja.me)
 
 - 💬 Ask me about **application development🌐📱, animals🫏, and Xbox🎮😂**
 
