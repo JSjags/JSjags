@@ -1,4 +1,4 @@
-[![MasterHead](./assets/GitHub-Banner.gif)](https://www.jesseabuaja.tech)
+[![MasterHead](./assets/GitHub-Banner.gif)](https://jesseabuaja.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Jesse Abuaja A. K. A Jesjags</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **C# and . NET framework**
 
-- 👨‍💻 Visit my portfolio available at [https://www.jesseabuaja.me](https://www.jesseabuaja.me)
+- 👨‍💻 Visit my portfolio available at [https://www.jesseabuaja.me](https://jesseabuaja.vercel.app)
 
 - 💬 Ask me about **application development🌐📱, animals🫏, and Xbox🎮😂**
 
