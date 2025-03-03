@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **C# and . NET framework**
 
-- 👨‍💻 Visit my portfolio available at [https://www.jesseabuaja.me](https://jesseabuaja.vercel.app)
+- 👨‍💻 Visit my portfolio available at [https://jesseabuaja.vercel.app](https://jesseabuaja.vercel.app)
 
 - 💬 Ask me about **application development🌐📱, animals🫏, and Xbox🎮😂**
 
